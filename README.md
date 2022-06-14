@@ -1,4 +1,7 @@
 # EfficientPose
+--ran "python track.py --path=utils/MPII.jpg --visualize --store" on my mac
+
+
 ![](utils/EfficientPose.gif)
 
 **Publicly accessible scalable single-person pose estimation as introduced in** [**"EfficientPose: Scalable single-person pose estimation"**](https://link.springer.com/article/10.1007/s10489-020-01918-7)**. We provide a simple intuitive interface for high-precision movement extraction from 2D images, videos, or directly from your webcamera.** 
